@@ -1,0 +1,31 @@
+
+#map { height: 100vh; 
+}
+#coordinate{
+    position: absolute;
+    left:40%;
+    background: lightgrey;
+    z-index:99999;
+    bottom: 0;
+    padding: 3px;
+
+}
+#nav{
+    background-color: rgb(202, 209, 209);
+    position: absolute;
+
+}
+/* #ui{
+
+} */
+#form{
+    border-radius: 10px;
+}
+#list{
+    border-radius: 50px;
+    font-size: small;
+}
+#nav{
+    margin-left: 20%;
+    margin-right: 10%;
+}
